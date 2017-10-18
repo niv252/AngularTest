@@ -1,0 +1,11 @@
+P:\visual studio 2017\Projects\AngularWebApplicationServer\AngularWebApplicationServer\bin\Debug\netcoreapp2.0\AngularWebApplicationServer.deps.json
+P:\visual studio 2017\Projects\AngularWebApplicationServer\AngularWebApplicationServer\bin\Debug\netcoreapp2.0\AngularWebApplicationServer.runtimeconfig.json
+P:\visual studio 2017\Projects\AngularWebApplicationServer\AngularWebApplicationServer\bin\Debug\netcoreapp2.0\AngularWebApplicationServer.runtimeconfig.dev.json
+P:\visual studio 2017\Projects\AngularWebApplicationServer\AngularWebApplicationServer\bin\Debug\netcoreapp2.0\AngularWebApplicationServer.dll
+P:\visual studio 2017\Projects\AngularWebApplicationServer\AngularWebApplicationServer\bin\Debug\netcoreapp2.0\AngularWebApplicationServer.pdb
+P:\visual studio 2017\Projects\AngularWebApplicationServer\AngularWebApplicationServer\obj\Debug\netcoreapp2.0\AngularWebApplicationServer.csprojResolveAssemblyReference.cache
+P:\visual studio 2017\Projects\AngularWebApplicationServer\AngularWebApplicationServer\obj\Debug\netcoreapp2.0\AngularWebApplicationServer.csproj.CoreCompileInputs.cache
+P:\visual studio 2017\Projects\AngularWebApplicationServer\AngularWebApplicationServer\obj\Debug\netcoreapp2.0\AngularWebApplicationServer.AssemblyInfoInputs.cache
+P:\visual studio 2017\Projects\AngularWebApplicationServer\AngularWebApplicationServer\obj\Debug\netcoreapp2.0\AngularWebApplicationServer.AssemblyInfo.cs
+P:\visual studio 2017\Projects\AngularWebApplicationServer\AngularWebApplicationServer\obj\Debug\netcoreapp2.0\AngularWebApplicationServer.dll
+P:\visual studio 2017\Projects\AngularWebApplicationServer\AngularWebApplicationServer\obj\Debug\netcoreapp2.0\AngularWebApplicationServer.pdb
